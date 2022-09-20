@@ -1,0 +1,15 @@
+{
+    "name": "dell/membership",
+    "autoload": {
+        "psr-4": {
+            "Dell\\Membership\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sebastian Nieroda",
+            "email": "sebastian.nieroda@codeq.pl"
+        }
+    ],
+    "require": {}
+}
